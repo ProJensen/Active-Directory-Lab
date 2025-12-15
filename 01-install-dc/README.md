@@ -23,3 +23,4 @@
    ![Installing](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Installing.png)
    ![Auto Restart](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Auto%20Restart.png)
    ![Password Setup](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Password%20Setup.png)
+   ![Login](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Login.png)
