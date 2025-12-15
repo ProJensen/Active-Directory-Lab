@@ -10,3 +10,8 @@
     
     Network Adapters:
     - Adapter 1: Custom NAT Network (setup in preferences :arrow_right: Network :arrow_right: Add new NAT Network :arrow_right: make your own Network Name, and Network CIDR)
+
+3. Start the VM and complete the OS installation
+
+     #### Follow the steps below.
+   
