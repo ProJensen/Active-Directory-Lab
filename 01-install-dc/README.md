@@ -14,4 +14,4 @@
 3. Start the VM and complete the OS installation
 
      #### Follow the steps below.
-   
+   ![Language](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Language.png)
