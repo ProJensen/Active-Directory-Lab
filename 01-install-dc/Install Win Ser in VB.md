@@ -1,1 +1,13 @@
+### Follow the steps below.
+   ![Language](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Language.png)
+   ![Keyboard](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Keyboard.png)
+   ![Install Windows Server](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Install%20Windows%20Server.png)
+   ![Windwos Server GUI](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Windwos%20Server%20GUI.png)
+   ![Select Location](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Select%20Location.png)
+   ![Install](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Install.png)
+   ![Installing](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Installing.png)
+   ![Auto Restart](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Auto%20Restart.png)
+   ![Password Setup](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Password%20Setup.png)
+   ![Login](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Login.png)
+   ![Success](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Success.png)
 
