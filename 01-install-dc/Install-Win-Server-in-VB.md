@@ -11,3 +11,7 @@
    ![Login](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Login.png)
    ![Success](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Success.png)
    ![Insert CD Image](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-Insert%20CD%20Image.png)
+   ![VB Guest Additions](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-VB%20Guest%20Additions.png)
+   ![VB next](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-VB%20next.png)
+   ![VB next 2](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-VB%20next%202.png)   
+   ![VB Install](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-VB%20install.png)
