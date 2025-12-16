@@ -15,3 +15,5 @@
    ![VB next](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-VB%20next.png)
    ![VB next 2](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-VB%20next%202.png)   
    ![VB Install](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-VB%20install.png)
+   ![VB wait for installation](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-VB%20wait%20for%20installation.png)
+   ![VB installation finish](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/1-VB%20installation%20finish.png)   
