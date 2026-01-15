@@ -29,4 +29,4 @@ Configure the **Host-Only network adapter** with the following settings:
 
 ![Set IP](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/02-conf-ip/2-Set-IP.png)
 
-6. Click **OK**
+6. Click **OK** to save
