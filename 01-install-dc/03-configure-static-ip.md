@@ -9,7 +9,7 @@ Configure the **Host-Only network adapter** with the following settings:
 | Default Gateway | `192.168.0.1` |
 | Preferred DNS Server | `127.0.0.1` |
 
-## Configuration Steps (GUI)
+## Configuration Steps
 
 1. Open **Settings → Network & Internet**
 2. Click **Advanced network settings**
