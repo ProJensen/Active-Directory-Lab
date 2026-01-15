@@ -11,6 +11,3 @@
 5. [Install AD DS Role](05-install-ad-ds-role.md)
 
 6. [Promote Domain Controller](06-promote-domain-controller.md)
-
-3. [Start the VM and complete the OS installation](Install-Win-Server-in-VB.md)
-
