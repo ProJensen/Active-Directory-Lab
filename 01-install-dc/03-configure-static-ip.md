@@ -12,12 +12,19 @@ Configure the **Host-Only network adapter** with the following settings:
 ## Configuration Steps
 
 1. In the **Server Manager Page**, click **Local Server**
+
 2. In the **Local Server** tab, under "PROPERTIES", click **Ethernet: IPv4 address assigned by DHCP, IPv6 enabled**
 
 ![Ethernet](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/02-conf-ip/2-Click%20Ethernet.png)
-3. Select **More network adapter options**
-4. Right-click **Ethernet (Host-Only Adapter)** → **Properties**
-5. Select **Internet Protocol Version 4 (IPv4)** → **Properties**
-6. Select **Use the following IP address**
-7. Enter the values listed above
-8. Click **OK** and close all dialogs
+
+3. In the **Network Connections**, right-click **Ethernet**, and select **Properties**
+
+![Network](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/02-conf-ip/2-Properties.png)
+
+4. Select **Internet Protocol Version 4 (IPv4)** → **Properties**
+
+![IPv4](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/02-conf-ip/2-IPv4%20Properties.png)
+
+5. Select **Use the following IP address**
+6. Enter the values listed above
+7. Click **OK** and close all dialogs
