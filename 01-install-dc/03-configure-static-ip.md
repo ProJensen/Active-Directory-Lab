@@ -25,6 +25,7 @@ Configure the **Host-Only network adapter** with the following settings:
 
 ![IPv4](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/02-conf-ip/2-IPv4%20Properties.png)
 
-5. Select **Use the following IP address**
-6. Enter the values listed above
-7. Click **OK** and close all dialogs
+5. Set the **IP address** and the **DNS server address**
+
+
+6. Click **OK**
