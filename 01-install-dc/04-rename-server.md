@@ -15,3 +15,5 @@
 7. Restart the server when prompted
 
 ![Renamed](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/02-conf-ip/2-Restart.png)
+
+![Name Changed](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/02-conf-ip/2-Name%20Changed.png)
