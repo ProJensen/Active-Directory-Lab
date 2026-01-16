@@ -16,4 +16,10 @@
 
 ![Renamed](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/02-conf-ip/2-Restart.png)
 
+After reboot:
+
+1. Log in to the server
+2. Open **Server Manager**
+3. Confirm the server name shows:
+
 ![Name Changed](https://raw.githubusercontent.com/ProJensen/Active-Directory-Lab/refs/heads/main/01-install-dc/screencap/02-conf-ip/2-Name%20Changed.png)
